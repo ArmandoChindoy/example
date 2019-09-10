@@ -30,3 +30,9 @@ body{
 #container h1{
     font-size: 70px;
 }
+#footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+}
